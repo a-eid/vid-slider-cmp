@@ -2,7 +2,7 @@
   "name": "video-slider",
   "version": "0.0.1",
   "description": "",
-  "main": "SubclipMarker.js",
+  "main": "./index.js",
   "scripts": {},
   "dependencies": {
     "lodash.debounce": "^4.0.8",

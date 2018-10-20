@@ -1,1 +1,0 @@
-# vid-slider-cmp
